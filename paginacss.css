@@ -1,12 +1,13 @@
 #idcorpo{
-
-background-color: skyblue;
+  background-color: skyblue;
 }
 
 #inicio{
-
+ text-align: center;
+ color: red;
 }
 
 #text{
+  color: green;
 
 }
